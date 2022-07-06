@@ -9,7 +9,7 @@ body {
 
 .amount {
 
-    padding-left: 42.5%;
+    padding-left: 43%;
     padding-right: 20%;
 
 
@@ -137,7 +137,7 @@ button {
 }
 
 
-}
+
 
 
 
@@ -162,29 +162,37 @@ p {
 
 .part-6-1 {
     background-color: rgb(222, 222, 245);
-    width: 1220px;
+    width: 1600px;
     border: 15px solid white;
-    padding: 50px;
+    padding: 20px;
     margin: 20px;
-    height: 700px;
+    height: 5.6in;
 }
 
 .part-6-2 {
     background-color: rgb(248, 193, 193);
-    width: 1220px;
+    width: 1600px;
     border: 15px solid white;
-    padding: 50px;
+    padding: 20px;
     margin: 20px;
+    height: 5.6in;
 }
 
 .part-6-3 {
-    background-color: rgb(241, 241, 215);
-    width: 1220px;
+    background-color: rgb(227, 206, 168);
+    width: 1600px;
     border: 15px solid white;
-    padding: 50px;
+    padding: 20px;
     margin: 20px;
+    height: 5.6in;
 }
 
 .second-last {
     text-align: center;
+}
+
+.desaster {
+    margin-top: 2in;
+    shape-image-threshold: calc(3in 3in);
+    height: 5in;
 }
